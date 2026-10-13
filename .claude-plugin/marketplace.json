@@ -1,0 +1,17 @@
+{
+  "name": "ux-review-skills",
+  "owner": {
+    "name": "Matthew Martin",
+    "url": "https://github.com/matomaton"
+  },
+  "metadata": {
+    "description": "UX review skills for Claude: Nielsen heuristics, Laws of UX, and Tog's First Principles, tuned for screens where people review and act on AI output."
+  },
+  "plugins": [
+    {
+      "name": "ux-review",
+      "source": "./plugins/ux-review",
+      "description": "Three complementary UX evaluation lenses with a shared 0–4 severity scale so findings can be merged."
+    }
+  ]
+}

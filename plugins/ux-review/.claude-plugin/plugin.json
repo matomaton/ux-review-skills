@@ -1,0 +1,13 @@
+{
+  "name": "ux-review",
+  "version": "1.0.0",
+  "description": "Evaluate interfaces against Nielsen's heuristics, the Laws of UX, and Tog's First Principles, with extra scrutiny for AI-output review screens.",
+  "author": {
+    "name": "Matthew Martin",
+    "url": "https://github.com/matomaton"
+  },
+  "homepage": "https://github.com/matomaton/ux-review-skills",
+  "repository": "https://github.com/matomaton/ux-review-skills",
+  "license": "MIT",
+  "keywords": ["ux", "heuristic-evaluation", "usability", "design-review", "ai"]
+}
